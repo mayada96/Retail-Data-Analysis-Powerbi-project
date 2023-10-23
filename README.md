@@ -1,5 +1,7 @@
 Retail Data Analysis
 
+## Overview
+
 This repository offers a comprehensive exploration of retail data, which has been meticulously prepared and analyzed for actionable insights. The dataset contains retail data with the following columns:
 -	bill: Bill or invoice identifier
 -	merchandise id: Identifier for merchandise
