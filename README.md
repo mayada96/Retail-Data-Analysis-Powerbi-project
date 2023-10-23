@@ -45,7 +45,7 @@ https://www.kaggle.com/datasets/coldperformer/online-retail-data-v3
 
 ## Project Files
 
-- ` RetailData.csv` - Dataset from Kaggle.
+- ` RetailData.xlsx` - Dataset from Kaggle.
 - ` Cleansed RetailData.csv` - Result data after cleaning.
 - ` RFM RetailData Analysis.csv` - Result data after RFM Analysis.
 - ` Cleansed RetailData Script.sql` - SQL cleaning script.
