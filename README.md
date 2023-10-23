@@ -6,7 +6,7 @@ This repository offers a comprehensive exploration of retail data, which has bee
 -	`bill`: Bill or invoice identifier
 -	`merchandise id`: Identifier for merchandise
 -	`product`: Product name
--	`quota` (quantity): Quantity of the product in the order
+-	`quota`: Quantity of the product in the order
 -	`amount`: Amount or price for the product
 -	`customer id`: Customer identifier
 -	`country`: Country of the customers
